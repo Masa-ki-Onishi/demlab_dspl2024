@@ -1,0 +1,14 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _tmc_vision_msgs_generate_messages_check_deps_Label
+[  0%] Built target _tmc_vision_msgs_generate_messages_check_deps_Detection
+[  0%] Built target _tmc_vision_msgs_generate_messages_check_deps_DetectionArray
+[ 70%] Built target tmc_vision_msgs_generate_messages_cpp
+[ 70%] Built target tmc_vision_msgs_generate_messages_eus
+[ 70%] Built target tmc_vision_msgs_generate_messages_lisp
+[ 76%] Built target tmc_vision_msgs_generate_messages_nodejs
+[100%] Built target tmc_vision_msgs_generate_messages_py
+[100%] Built target tmc_vision_msgs_generate_messages

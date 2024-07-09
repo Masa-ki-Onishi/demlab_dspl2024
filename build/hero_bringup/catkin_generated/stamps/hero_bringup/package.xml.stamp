@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<?xml-model
+  href="http://download.ros.org/schema/package_format3.xsd"
+  schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>hero_bringup</name>
+  <version>0.0.0</version>
+  <description>The hero_bringup package</description>
+
+  <maintainer email="p.v.dooren@student.tue.nl">Peter van Dooren</maintainer>
+  <maintainer email="j.geijsberts@student.tue.nl">Josja Geijsberts</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <exec_depend>gazebo_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>hero_bridge</exec_depend>
+  <exec_depend>hsrb_description</exec_depend>
+  <exec_depend>python3-rospkg</exec_depend>
+  <exec_depend>python3-yaml</exec_depend>
+  <exec_depend>robot_launch_files</exec_depend>
+  <exec_depend>rospy</exec_depend>
+
+  <doc_depend>python3-sphinx</doc_depend>
+  <doc_depend>python-sphinx-autoapi-pip</doc_depend>
+  <doc_depend>python-sphinx-rtd-theme-pip</doc_depend>
+  <doc_depend>python3-yaml</doc_depend>
+
+  <export>
+    <rosdoc config="rosdoc.yaml" />
+  </export>
+
+</package>

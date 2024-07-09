@@ -1,0 +1,1 @@
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/detectron2_ros/cmake/detectron2_ros-msg-paths.cmake

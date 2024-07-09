@@ -1,0 +1,5 @@
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/yolov5_ros.pc
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/yolov5_ros/cmake.lock
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/yolov5_ros/detect.py
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/yolov5_ros/cmake/yolov5_rosConfig-version.cmake
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/yolov5_ros/cmake/yolov5_rosConfig.cmake

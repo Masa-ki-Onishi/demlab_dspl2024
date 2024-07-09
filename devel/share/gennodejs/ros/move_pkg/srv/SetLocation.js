@@ -1,0 +1,1 @@
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/move_pkg/share/gennodejs/ros/move_pkg/srv/SetLocation.js

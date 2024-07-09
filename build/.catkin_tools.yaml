@@ -1,0 +1,6 @@
+devel_space: /home/demulab-asus4070-2024/dspl2024_ws/devel
+install: false
+install_space: /home/demulab-asus4070-2024/dspl2024_ws/install
+profile: default
+source_space: /home/demulab-asus4070-2024/dspl2024_ws/src
+workspace: /home/demulab-asus4070-2024/dspl2024_ws

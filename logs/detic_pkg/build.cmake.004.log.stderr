@@ -1,0 +1,12 @@
+[31m[1mCMake Error[0m at /home/demulab-asus4070-2024/dspl2024_ws/build/detic_pkg/cmake/detic_pkg-genmsg.cmake:3 (message):
+  Could not find messages which
+  '/home/demulab-asus4070-2024/dspl2024_ws/src/detic_pkg/msg/Result.msg'
+  depends on.  Did you forget to specify generate_messages(DEPENDENCIES ...)?
+
+  Cannot locate message [int] in package [detic_pkg] with paths
+  [['/home/demulab-asus4070-2024/dspl2024_ws/src/detic_pkg/msg']]
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/noetic/share/genmsg/cmake/genmsg-extras.cmake:307 (include)
+  CMakeLists.txt:75 (generate_messages)
+
+

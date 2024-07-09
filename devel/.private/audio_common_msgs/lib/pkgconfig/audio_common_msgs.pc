@@ -1,0 +1,8 @@
+prefix=/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_common_msgs
+
+Name: audio_common_msgs
+Description: Description of audio_common_msgs
+Version: 0.3.17
+Cflags: -I/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_common_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,6 @@
+audio_common/audio_play
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_play/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/./cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_play/lib/audio_play/audio_play /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/audio_play/audio_play
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_play/lib/pkgconfig/audio_play.pc /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/audio_play.pc
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_play/share/audio_play/cmake/audio_playConfig-version.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/audio_play/cmake/audio_playConfig-version.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_play/share/audio_play/cmake/audio_playConfig.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/audio_play/cmake/audio_playConfig.cmake

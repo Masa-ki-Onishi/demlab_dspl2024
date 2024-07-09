@@ -1,0 +1,26 @@
+detic_pkg
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/./cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/lib/python3/dist-packages/detic_pkg/__init__.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/detic_pkg/__init__.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/lib/python3/dist-packages/detic_pkg/msg/_Result.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/detic_pkg/msg/_Result.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/lib/python3/dist-packages/detic_pkg/msg/_Data.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/detic_pkg/msg/_Data.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/lib/python3/dist-packages/detic_pkg/msg/__init__.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/detic_pkg/msg/__init__.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/lib/pkgconfig/detic_pkg.pc /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/detic_pkg.pc
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/include/detic_pkg/Data.h /home/demulab-asus4070-2024/dspl2024_ws/devel/include/detic_pkg/Data.h
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/include/detic_pkg/Result.h /home/demulab-asus4070-2024/dspl2024_ws/devel/include/detic_pkg/Result.h
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/roseus/ros/detic_pkg/manifest.l /home/demulab-asus4070-2024/dspl2024_ws/devel/share/roseus/ros/detic_pkg/manifest.l
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/roseus/ros/detic_pkg/msg/Data.l /home/demulab-asus4070-2024/dspl2024_ws/devel/share/roseus/ros/detic_pkg/msg/Data.l
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/roseus/ros/detic_pkg/msg/Result.l /home/demulab-asus4070-2024/dspl2024_ws/devel/share/roseus/ros/detic_pkg/msg/Result.l
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/common-lisp/ros/detic_pkg/msg/Data.lisp /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detic_pkg/msg/Data.lisp
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/common-lisp/ros/detic_pkg/msg/_package.lisp /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detic_pkg/msg/_package.lisp
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/common-lisp/ros/detic_pkg/msg/_package_Result.lisp /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detic_pkg/msg/_package_Result.lisp
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/common-lisp/ros/detic_pkg/msg/Result.lisp /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detic_pkg/msg/Result.lisp
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/common-lisp/ros/detic_pkg/msg/_package_Data.lisp /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detic_pkg/msg/_package_Data.lisp
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/common-lisp/ros/detic_pkg/msg/detic_pkg-msg.asd /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detic_pkg/msg/detic_pkg-msg.asd
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/gennodejs/ros/detic_pkg/_index.js /home/demulab-asus4070-2024/dspl2024_ws/devel/share/gennodejs/ros/detic_pkg/_index.js
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/gennodejs/ros/detic_pkg/msg/Result.js /home/demulab-asus4070-2024/dspl2024_ws/devel/share/gennodejs/ros/detic_pkg/msg/Result.js
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/gennodejs/ros/detic_pkg/msg/Data.js /home/demulab-asus4070-2024/dspl2024_ws/devel/share/gennodejs/ros/detic_pkg/msg/Data.js
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/gennodejs/ros/detic_pkg/msg/_index.js /home/demulab-asus4070-2024/dspl2024_ws/devel/share/gennodejs/ros/detic_pkg/msg/_index.js
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/detic_pkg/cmake/detic_pkgConfig.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/detic_pkg/cmake/detic_pkgConfig.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/detic_pkg/cmake/detic_pkg-msg-paths.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/detic_pkg/cmake/detic_pkg-msg-paths.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/detic_pkg/cmake/detic_pkgConfig-version.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/detic_pkg/cmake/detic_pkgConfig-version.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detic_pkg/share/detic_pkg/cmake/detic_pkg-msg-extras.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/detic_pkg/cmake/detic_pkg-msg-extras.cmake

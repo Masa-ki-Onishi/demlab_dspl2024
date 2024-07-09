@@ -1,0 +1,6 @@
+darknet/tmc_darknet
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_darknet/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/./cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_darknet/lib/libtmc_darknet.so /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/libtmc_darknet.so
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_darknet/lib/pkgconfig/tmc_darknet.pc /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/tmc_darknet.pc
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_darknet/share/tmc_darknet/cmake/tmc_darknetConfig-version.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/tmc_darknet/cmake/tmc_darknetConfig-version.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_darknet/share/tmc_darknet/cmake/tmc_darknetConfig.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/tmc_darknet/cmake/tmc_darknetConfig.cmake

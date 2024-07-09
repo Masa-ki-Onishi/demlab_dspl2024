@@ -1,0 +1,8 @@
+prefix=/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/humanpose
+
+Name: humanpose
+Description: Description of humanpose
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

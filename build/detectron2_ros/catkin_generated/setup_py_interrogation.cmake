@@ -1,0 +1,7 @@
+set(detectron2_ros_SETUP_PY_SETUP_MODULE "distutils.core")
+set(detectron2_ros_SETUP_PY_VERSION "0.1.0")
+set(detectron2_ros_SETUP_PY_SCRIPTS "")
+set(detectron2_ros_SETUP_PY_PACKAGES "detectron2_ros")
+set(detectron2_ros_SETUP_PY_PACKAGE_DIRS "src/detectron2_ros")
+set(detectron2_ros_SETUP_PY_MODULES "")
+set(detectron2_ros_SETUP_PY_MODULE_DIRS "")

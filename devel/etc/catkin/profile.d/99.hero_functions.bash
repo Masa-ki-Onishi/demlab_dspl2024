@@ -1,0 +1,1 @@
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hero_bringup/etc/catkin/profile.d/99.hero_functions.bash

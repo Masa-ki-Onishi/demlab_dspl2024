@@ -1,0 +1,10 @@
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/tmc_yolo2_ros/yolo2_node
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/tmc_yolo2_ros/cmake.lock
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/tmc_yolo2_ros/yolo2_tf_publisher_node
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/tmc_yolo2_ros/yolo2_node_stub
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/tmc_yolo2_ros/training
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/tmc_yolo2_ros/yolo2_image_node
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/tmc_yolo2_ros/__init__.py
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/tmc_yolo2_ros.pc
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/tmc_yolo2_ros/cmake/tmc_yolo2_rosConfig-version.cmake
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/tmc_yolo2_ros/cmake/tmc_yolo2_rosConfig.cmake

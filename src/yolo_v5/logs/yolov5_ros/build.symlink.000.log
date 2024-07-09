@@ -1,0 +1,5 @@
+Symlinking /home/kohei/yolo_v5/devel/share/yolov5_ros/cmake/yolov5_rosConfig-version.cmake
+Symlinking /home/kohei/yolo_v5/devel/share/yolov5_ros/cmake/yolov5_rosConfig.cmake
+Symlinking /home/kohei/yolo_v5/devel/lib/pkgconfig/yolov5_ros.pc
+Symlinking /home/kohei/yolo_v5/devel/lib/yolov5_ros/cmake.lock
+Symlinking /home/kohei/yolo_v5/devel/lib/yolov5_ros/detect.py

@@ -1,0 +1,8 @@
+prefix=/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/yolo_v5
+
+Name: yolo_v5
+Description: Description of yolo_v5
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

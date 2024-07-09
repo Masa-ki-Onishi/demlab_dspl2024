@@ -1,0 +1,20 @@
+detectron2_ros
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/./cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/lib/python3/dist-packages/detectron2_ros/__init__.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/detectron2_ros/__init__.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/lib/python3/dist-packages/detectron2_ros/msg/_Result.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/detectron2_ros/msg/_Result.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/lib/python3/dist-packages/detectron2_ros/msg/__init__.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/detectron2_ros/msg/__init__.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/lib/pkgconfig/detectron2_ros.pc /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/detectron2_ros.pc
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/include/detectron2_ros/Result.h /home/demulab-asus4070-2024/dspl2024_ws/devel/include/detectron2_ros/Result.h
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/roseus/ros/detectron2_ros/manifest.l /home/demulab-asus4070-2024/dspl2024_ws/devel/share/roseus/ros/detectron2_ros/manifest.l
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/roseus/ros/detectron2_ros/msg/Result.l /home/demulab-asus4070-2024/dspl2024_ws/devel/share/roseus/ros/detectron2_ros/msg/Result.l
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/detectron2_ros/cmake/detectron2_ros-msg-paths.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/detectron2_ros/cmake/detectron2_ros-msg-paths.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/detectron2_ros/cmake/detectron2_rosConfig-version.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/detectron2_ros/cmake/detectron2_rosConfig-version.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/detectron2_ros/cmake/detectron2_ros-msg-extras.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/detectron2_ros/cmake/detectron2_ros-msg-extras.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/detectron2_ros/cmake/detectron2_rosConfig.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/detectron2_ros/cmake/detectron2_rosConfig.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/common-lisp/ros/detectron2_ros/msg/detectron2_ros-msg.asd /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detectron2_ros/msg/detectron2_ros-msg.asd
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/common-lisp/ros/detectron2_ros/msg/_package.lisp /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detectron2_ros/msg/_package.lisp
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/common-lisp/ros/detectron2_ros/msg/_package_Result.lisp /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detectron2_ros/msg/_package_Result.lisp
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/common-lisp/ros/detectron2_ros/msg/Result.lisp /home/demulab-asus4070-2024/dspl2024_ws/devel/share/common-lisp/ros/detectron2_ros/msg/Result.lisp
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/gennodejs/ros/detectron2_ros/_index.js /home/demulab-asus4070-2024/dspl2024_ws/devel/share/gennodejs/ros/detectron2_ros/_index.js
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/gennodejs/ros/detectron2_ros/msg/Result.js /home/demulab-asus4070-2024/dspl2024_ws/devel/share/gennodejs/ros/detectron2_ros/msg/Result.js
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detectron2_ros/share/gennodejs/ros/detectron2_ros/msg/_index.js /home/demulab-asus4070-2024/dspl2024_ws/devel/share/gennodejs/ros/detectron2_ros/msg/_index.js

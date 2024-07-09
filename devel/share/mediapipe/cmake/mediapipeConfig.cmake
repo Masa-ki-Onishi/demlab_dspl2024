@@ -1,0 +1,1 @@
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/mediapipe/share/mediapipe/cmake/mediapipeConfig.cmake

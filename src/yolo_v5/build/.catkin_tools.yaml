@@ -1,0 +1,6 @@
+devel_space: /home/kohei/yolo_v5/devel
+install: false
+install_space: /home/kohei/yolo_v5/install
+profile: default
+source_space: /home/kohei/yolo_v5/src
+workspace: /home/kohei/yolo_v5

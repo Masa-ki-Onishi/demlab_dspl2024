@@ -1,0 +1,6 @@
+audio_common/audio_capture
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_capture/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/./cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_capture/lib/audio_capture/audio_capture /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/audio_capture/audio_capture
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_capture/lib/pkgconfig/audio_capture.pc /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/audio_capture.pc
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_capture/share/audio_capture/cmake/audio_captureConfig-version.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/audio_capture/cmake/audio_captureConfig-version.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_capture/share/audio_capture/cmake/audio_captureConfig.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/audio_capture/cmake/audio_captureConfig.cmake

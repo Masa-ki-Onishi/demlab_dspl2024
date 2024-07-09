@@ -1,0 +1,7 @@
+mediapipe
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/mediapipe/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/./cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/mediapipe/lib/pkgconfig/mediapipe.pc /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/mediapipe.pc
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/mediapipe/lib/mediapipe/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/mediapipe/cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/mediapipe/lib/mediapipe/gesture_recognition.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/mediapipe/gesture_recognition.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/mediapipe/share/mediapipe/cmake/mediapipeConfig-version.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/mediapipe/cmake/mediapipeConfig-version.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/mediapipe/share/mediapipe/cmake/mediapipeConfig.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/mediapipe/cmake/mediapipeConfig.cmake

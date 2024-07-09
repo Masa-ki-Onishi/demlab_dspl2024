@@ -1,0 +1,8 @@
+prefix=/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_vision_msgs
+
+Name: tmc_vision_msgs
+Description: Description of tmc_vision_msgs
+Version: 0.2.0
+Cflags: -I/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_vision_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

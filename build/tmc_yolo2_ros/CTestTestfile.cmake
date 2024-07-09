@@ -1,0 +1,9 @@
+# CMake generated Testfile for 
+# Source directory: /home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros
+# Build directory: /home/demulab-asus4070-2024/dspl2024_ws/build/tmc_yolo2_ros
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_tmc_yolo2_ros_rostest_test_yolo2_node-test.test "/home/demulab-asus4070-2024/dspl2024_ws/build/tmc_yolo2_ros/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/noetic/share/catkin/cmake/test/run_tests.py" "/home/demulab-asus4070-2024/dspl2024_ws/build/tmc_yolo2_ros/test_results/tmc_yolo2_ros/rostest-test_yolo2_node-test.xml" "--return-code" "/usr/bin/python3 /opt/ros/noetic/share/rostest/cmake/../../../bin/rostest --pkgdir=/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros --package=tmc_yolo2_ros --results-filename test_yolo2_node-test.xml --results-base-dir \"/home/demulab-asus4070-2024/dspl2024_ws/build/tmc_yolo2_ros/test_results\" /home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/test/yolo2_node-test.test ")
+set_tests_properties(_ctest_tmc_yolo2_ros_rostest_test_yolo2_node-test.test PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/noetic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/noetic/share/rostest/cmake/rostest-extras.cmake;52;catkin_run_tests_target;/opt/ros/noetic/share/rostest/cmake/rostest-extras.cmake;80;add_rostest;/opt/ros/noetic/share/rostest/cmake/rostest-extras.cmake;100;_add_rostest_google_test;/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/CMakeLists.txt;90;add_rostest_gtest;/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/CMakeLists.txt;0;")
+subdirs("gtest")

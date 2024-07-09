@@ -1,0 +1,8 @@
+prefix=/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hsrb_darknet_tutorials
+
+Name: hsrb_darknet_tutorials
+Description: Description of hsrb_darknet_tutorials
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/hero_bringup/__init__.py
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/hero_bringup.pc
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/etc/catkin/profile.d/99.hero_functions.bash
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/hero_bringup/cmake/hero_bringupConfig-version.cmake
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/hero_bringup/cmake/hero_bringupConfig.cmake

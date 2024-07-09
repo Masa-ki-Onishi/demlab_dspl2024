@@ -1,0 +1,1 @@
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/detection_msgs/share/roseus/ros/detection_msgs/msg/BoundingBox.l

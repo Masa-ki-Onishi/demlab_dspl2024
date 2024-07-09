@@ -1,0 +1,15 @@
+<launch>
+  <arg name="map_file" default="$(find move_pkg)/map/dspl2024_v1.yaml"/>
+
+  <!-- Map server -->
+  <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
+
+  <!-- Localization -->
+  <!-- include file="$(find move_pkg)/launch/include/amcl.launch.xml"/ -->
+
+  <!-- Move base conroller -->
+  <!-- include file="$(find move_pkg)/launch/include/move_base.launch.xml"/ -->
+
+  <rosparam ns="/location" command="load" file="$(find move_pkg)/location/dspl2024_v1.yaml" />
+
+</launch>

@@ -1,0 +1,1 @@
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/gazebo_hsrb/share/gazebo_hsrb/cmake/gazebo_hsrbConfig-version.cmake

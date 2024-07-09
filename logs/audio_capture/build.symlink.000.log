@@ -1,0 +1,4 @@
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/audio_capture/audio_capture
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/audio_capture.pc
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/audio_capture/cmake/audio_captureConfig-version.cmake
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/audio_capture/cmake/audio_captureConfig.cmake

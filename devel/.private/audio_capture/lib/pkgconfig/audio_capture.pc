@@ -1,0 +1,8 @@
+prefix=/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/audio_capture
+
+Name: audio_capture
+Description: Description of audio_capture
+Version: 0.3.17
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

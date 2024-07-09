@@ -1,0 +1,45 @@
+[35m[1mScanning dependencies of target _tmc_vision_msgs_generate_messages_check_deps_DetectionArray[0m
+[35m[1mScanning dependencies of target _tmc_vision_msgs_generate_messages_check_deps_Detection[0m
+[35m[1mScanning dependencies of target _tmc_vision_msgs_generate_messages_check_deps_Label[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target _tmc_vision_msgs_generate_messages_check_deps_DetectionArray
+[  0%] Built target _tmc_vision_msgs_generate_messages_check_deps_Detection
+[  0%] Built target _tmc_vision_msgs_generate_messages_check_deps_Label
+[35m[1mScanning dependencies of target tmc_vision_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tmc_vision_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target tmc_vision_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target tmc_vision_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tmc_vision_msgs_generate_messages_lisp[0m
+[ 11%] [34m[1mGenerating C++ code from tmc_vision_msgs/Label.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG tmc_vision_msgs/DetectionArray[0m
+[ 23%] [34m[1mGenerating Python from MSG tmc_vision_msgs/Detection[0m
+[ 11%] [34m[1mGenerating C++ code from tmc_vision_msgs/DetectionArray.msg[0m
+[ 29%] [34m[1mGenerating Javascript code from tmc_vision_msgs/Detection.msg[0m
+[ 41%] [34m[1mGenerating EusLisp code from tmc_vision_msgs/Detection.msg[0m
+[ 41%] [34m[1mGenerating Lisp code from tmc_vision_msgs/Detection.msg[0m
+[ 47%] [34m[1mGenerating C++ code from tmc_vision_msgs/Detection.msg[0m
+[ 52%] [34m[1mGenerating Lisp code from tmc_vision_msgs/Label.msg[0m
+[ 58%] [34m[1mGenerating Lisp code from tmc_vision_msgs/DetectionArray.msg[0m
+[ 64%] [34m[1mGenerating Javascript code from tmc_vision_msgs/DetectionArray.msg[0m
+[ 70%] [34m[1mGenerating EusLisp code from tmc_vision_msgs/DetectionArray.msg[0m
+[ 76%] [34m[1mGenerating Javascript code from tmc_vision_msgs/Label.msg[0m
+[ 82%] [34m[1mGenerating Python from MSG tmc_vision_msgs/Label[0m
+[ 88%] [34m[1mGenerating EusLisp code from tmc_vision_msgs/Label.msg[0m
+[ 88%] Built target tmc_vision_msgs_generate_messages_lisp
+[ 94%] [34m[1mGenerating EusLisp manifest code for tmc_vision_msgs[0m
+[ 94%] Built target tmc_vision_msgs_generate_messages_nodejs
+[ 94%] Built target tmc_vision_msgs_generate_messages_cpp
+[100%] [34m[1mGenerating Python msg __init__.py for tmc_vision_msgs[0m
+[100%] Built target tmc_vision_msgs_generate_messages_py
+[100%] Built target tmc_vision_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tmc_vision_msgs_generate_messages[0m
+[100%] Built target tmc_vision_msgs_generate_messages

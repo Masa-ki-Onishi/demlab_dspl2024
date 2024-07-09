@@ -1,0 +1,5 @@
+robot
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/robot/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/./cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/robot/lib/pkgconfig/robot.pc /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/robot.pc
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/robot/share/robot/cmake/robotConfig-version.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/robot/cmake/robotConfig-version.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/robot/share/robot/cmake/robotConfig.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/robot/cmake/robotConfig.cmake

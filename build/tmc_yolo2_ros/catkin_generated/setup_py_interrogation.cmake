@@ -1,0 +1,7 @@
+set(tmc_yolo2_ros_SETUP_PY_SETUP_MODULE "distutils.core")
+set(tmc_yolo2_ros_SETUP_PY_VERSION "0.2.0")
+set(tmc_yolo2_ros_SETUP_PY_SCRIPTS "")
+set(tmc_yolo2_ros_SETUP_PY_PACKAGES "tmc_yolo2_ros")
+set(tmc_yolo2_ros_SETUP_PY_PACKAGE_DIRS "src/tmc_yolo2_ros")
+set(tmc_yolo2_ros_SETUP_PY_MODULES "")
+set(tmc_yolo2_ros_SETUP_PY_MODULE_DIRS "")

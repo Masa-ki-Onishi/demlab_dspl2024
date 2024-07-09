@@ -1,0 +1,1 @@
+/home/kohei/yolo_v5/devel/.private/detection_msgs/lib/pkgconfig/detection_msgs.pc

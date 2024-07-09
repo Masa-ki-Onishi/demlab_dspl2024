@@ -1,0 +1,24 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _detic_pkg_generate_messages_check_deps_Data
+[  0%] Built target _detic_pkg_generate_messages_check_deps_Result
+[ 33%] [34m[1mGenerating Javascript code from detic_pkg/Result.msg[0m
+[ 33%] [34m[1mGenerating Python from MSG detic_pkg/Result[0m
+[ 33%] [34m[1mGenerating Lisp code from detic_pkg/Result.msg[0m
+[ 33%] [34m[1mGenerating EusLisp code from detic_pkg/Result.msg[0m
+[ 41%] [34m[1mGenerating C++ code from detic_pkg/Result.msg[0m
+[ 58%] Built target detic_pkg_generate_messages_lisp
+[ 58%] Built target detic_pkg_generate_messages_nodejs
+[ 75%] Built target detic_pkg_generate_messages_eus
+[ 83%] Built target detic_pkg_generate_messages_cpp
+[ 91%] [34m[1mGenerating Python msg __init__.py for detic_pkg[0m
+[100%] Built target detic_pkg_generate_messages_py
+[100%] Built target detic_pkg_generate_messages

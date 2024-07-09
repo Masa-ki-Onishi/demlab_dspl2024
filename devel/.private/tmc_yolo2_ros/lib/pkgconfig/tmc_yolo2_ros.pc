@@ -1,0 +1,8 @@
+prefix=/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_yolo2_ros
+
+Name: tmc_yolo2_ros
+Description: Description of tmc_yolo2_ros
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: cv_bridge image_transport roscpp roslib sensor_msgs std_msgs tf2_ros tmc_darknet tmc_vision_msgs

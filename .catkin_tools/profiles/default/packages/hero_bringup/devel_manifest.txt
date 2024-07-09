@@ -1,0 +1,7 @@
+hero_bringup
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hero_bringup/cmake.lock /home/demulab-asus4070-2024/dspl2024_ws/devel/./cmake.lock
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hero_bringup/lib/python3/dist-packages/hero_bringup/__init__.py /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/python3/dist-packages/hero_bringup/__init__.py
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hero_bringup/lib/pkgconfig/hero_bringup.pc /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/hero_bringup.pc
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hero_bringup/etc/catkin/profile.d/99.hero_functions.bash /home/demulab-asus4070-2024/dspl2024_ws/devel/etc/catkin/profile.d/99.hero_functions.bash
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hero_bringup/share/hero_bringup/cmake/hero_bringupConfig-version.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/hero_bringup/cmake/hero_bringupConfig-version.cmake
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hero_bringup/share/hero_bringup/cmake/hero_bringupConfig.cmake /home/demulab-asus4070-2024/dspl2024_ws/devel/share/hero_bringup/cmake/hero_bringupConfig.cmake

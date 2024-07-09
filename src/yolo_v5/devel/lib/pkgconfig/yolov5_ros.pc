@@ -1,0 +1,1 @@
+/home/kohei/yolo_v5/devel/.private/yolov5_ros/lib/pkgconfig/yolov5_ros.pc

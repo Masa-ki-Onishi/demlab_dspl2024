@@ -1,0 +1,4 @@
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/libtmc_darknet.so
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/tmc_darknet.pc
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/tmc_darknet/cmake/tmc_darknetConfig-version.cmake
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/tmc_darknet/cmake/tmc_darknetConfig.cmake

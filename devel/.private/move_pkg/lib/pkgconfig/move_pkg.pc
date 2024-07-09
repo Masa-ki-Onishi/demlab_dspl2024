@@ -1,0 +1,8 @@
+prefix=/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/move_pkg
+
+Name: move_pkg
+Description: Description of move_pkg
+Version: 0.0.0
+Cflags: -I/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/move_pkg/include
+Libs: -L${prefix}/lib 
+Requires: 

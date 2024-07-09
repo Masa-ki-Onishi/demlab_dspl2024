@@ -1,0 +1,1 @@
+/home/kohei/yolo_v5/devel/.private/detection_msgs/share/gennodejs/ros/detection_msgs/msg/_index.js

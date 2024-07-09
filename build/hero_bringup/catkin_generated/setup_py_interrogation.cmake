@@ -1,0 +1,7 @@
+set(hero_bringup_SETUP_PY_SETUP_MODULE "setuptools")
+set(hero_bringup_SETUP_PY_VERSION "0.0.0")
+set(hero_bringup_SETUP_PY_SCRIPTS "")
+set(hero_bringup_SETUP_PY_PACKAGES "hero_bringup")
+set(hero_bringup_SETUP_PY_PACKAGE_DIRS "src/hero_bringup")
+set(hero_bringup_SETUP_PY_MODULES "")
+set(hero_bringup_SETUP_PY_MODULE_DIRS "")

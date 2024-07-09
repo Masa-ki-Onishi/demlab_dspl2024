@@ -1,0 +1,5 @@
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/libhsrb_moveit_controller_manager.so
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/libhsrb_moveit_kinematics.so
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/lib/pkgconfig/hsrb_moveit_plugins.pc
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/hsrb_moveit_plugins/cmake/hsrb_moveit_pluginsConfig-version.cmake
+Symlinking /home/demulab-asus4070-2024/dspl2024_ws/devel/share/hsrb_moveit_plugins/cmake/hsrb_moveit_pluginsConfig.cmake

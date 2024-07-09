@@ -1,0 +1,1 @@
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/voice_pkg/share/voice_pkg/cmake/voice_pkgConfig-version.cmake

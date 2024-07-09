@@ -1,0 +1,1 @@
+/home/demulab-asus4070-2024/dspl2024_ws/devel/.private/hsrb_darknet_tutorials/lib/pkgconfig/hsrb_darknet_tutorials.pc

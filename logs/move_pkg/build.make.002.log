@@ -1,0 +1,14 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _move_pkg_generate_messages_check_deps_SetLocation
+[  0%] Built target _move_pkg_generate_messages_check_deps_NaviLocation
+[  0%] Built target _move_pkg_generate_messages_check_deps_NaviCoord
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 17%] Built target move_pkg_generate_messages_cpp
+[ 41%] Built target move_pkg_generate_messages_py
+[ 70%] Built target move_pkg_generate_messages_nodejs
+[ 82%] Built target move_pkg_generate_messages_eus
+[100%] Built target move_pkg_generate_messages_lisp
+[100%] Built target move_pkg_generate_messages

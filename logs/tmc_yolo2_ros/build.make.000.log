@@ -1,0 +1,59 @@
+[35m[1mScanning dependencies of target training[0m
+[35m[1mScanning dependencies of target yolo2_node[0m
+[35m[1mScanning dependencies of target yolo2_node_stub[0m
+[ 10%] [32mBuilding C object CMakeFiles/training.dir/src/training.c.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/yolo2_node_stub.dir/src/detector.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/yolo2_node.dir/src/detector.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/yolo2_node.dir/src/yolo2_node_main.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/yolo2_node_stub.dir/src/yolo2_node.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/yolo2_node_stub.dir/test/yolo2_node_stub.cpp.o[0m
+[ 70%] [32mBuilding CXX object CMakeFiles/yolo2_node.dir/src/yolo2_node.cpp.o[0m
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/training.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/training.c:161:5:[m[K [01;35m[Kwarning: [m[K‘[01m[Kreturn[m[K’ with no value, in function returning non-void
+  161 |     [01;35m[Kreturn[m[K;
+      |     [01;35m[K^~~~~~[m[K
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/training.c:147:5:[m[K [01;36m[Knote: [m[Kdeclared here
+  147 | int [01;36m[Kmain[m[K(int argc, char **argv) {
+      |     [01;36m[K^~~~[m[K
+[ 80%] [32m[1mLinking C executable /home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_yolo2_ros/lib/tmc_yolo2_ros/training[0m
+[ 80%] Built target training
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/opt/ros/noetic/include/image_transport/publisher.h:38[m[K,
+                 from [01m[K/opt/ros/noetic/include/image_transport/image_transport.h:38[m[K,
+                 from [01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/detector.cpp:31[m[K:
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/detector.cpp:[m[K In member function ‘[01m[Kvirtual bool tmc_yolo2_ros::Detector::Initialize(const string&, const string&, const string&, double, double, uint32_t&, uint32_t&)[m[K’:
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/detector.cpp:77:15:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 9 has type ‘[01m[Kstd::vector<std::__cxx11::basic_string<char> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+   77 |     ROS_ERROR([01;35m[K"Class sizes differ between network definition(%d) and class_names file(%d)."[m[K,
+      |               [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+   78 |               output_layer.classes, [32m[Kclass_names_.size()[m[K);
+      |                                     [32m[K~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                      [32m[K|[m[K
+      |                                                      [32m[Kstd::vector<std::__cxx11::basic_string<char> >::size_type {aka long unsigned int}[m[K
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/detector.cpp:77:88:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   77 |     ROS_ERROR("Class sizes differ between network definition(%d) and class_names file([01;36m[K%d[m[K).",
+      |                                                                                       [01;36m[K~^[m[K
+      |                                                                                        [01;36m[K|[m[K
+      |                                                                                        [01;36m[Kint[m[K
+      |                                                                                       [32m[K%ld[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/opt/ros/noetic/include/image_transport/publisher.h:38[m[K,
+                 from [01m[K/opt/ros/noetic/include/image_transport/image_transport.h:38[m[K,
+                 from [01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/detector.cpp:31[m[K:
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/detector.cpp:[m[K In member function ‘[01m[Kvirtual bool tmc_yolo2_ros::Detector::Initialize(const string&, const string&, const string&, double, double, uint32_t&, uint32_t&)[m[K’:
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/detector.cpp:77:15:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%d[m[K’ expects argument of type ‘[01m[Kint[m[K’, but argument 9 has type ‘[01m[Kstd::vector<std::__cxx11::basic_string<char> >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K-Wformat=[m[K]
+   77 |     ROS_ERROR([01;35m[K"Class sizes differ between network definition(%d) and class_names file(%d)."[m[K,
+      |               [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+   78 |               output_layer.classes, [32m[Kclass_names_.size()[m[K);
+      |                                     [32m[K~~~~~~~~~~~~~~~~~~~[m[K
+      |                                                      [32m[K|[m[K
+      |                                                      [32m[Kstd::vector<std::__cxx11::basic_string<char> >::size_type {aka long unsigned int}[m[K
+[01m[K/home/demulab-asus4070-2024/dspl2024_ws/src/darknet/tmc_darknet_ros/tmc_yolo2_ros/src/detector.cpp:77:88:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   77 |     ROS_ERROR("Class sizes differ between network definition(%d) and class_names file([01;36m[K%d[m[K).",
+      |                                                                                       [01;36m[K~^[m[K
+      |                                                                                        [01;36m[K|[m[K
+      |                                                                                        [01;36m[Kint[m[K
+      |                                                                                       [32m[K%ld[m[K
+[ 90%] [32m[1mLinking CXX executable /home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_yolo2_ros/lib/tmc_yolo2_ros/yolo2_node_stub[0m
+[100%] [32m[1mLinking CXX executable /home/demulab-asus4070-2024/dspl2024_ws/devel/.private/tmc_yolo2_ros/lib/tmc_yolo2_ros/yolo2_node[0m
+[100%] Built target yolo2_node_stub
+[100%] Built target yolo2_node
